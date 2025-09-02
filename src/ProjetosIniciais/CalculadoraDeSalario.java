@@ -32,7 +32,7 @@ public class CalculadoraDeSalario {
         System.out.printf("o funcionário %s tem a receber "+ formatadorDeMoedaBr.format((ValorParaReceber)),UsuarioInsereNome);
 
 
-
+        scanner.close();
     }
 }
 
