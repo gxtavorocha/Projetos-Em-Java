@@ -1,4 +1,4 @@
-package ProjetosDeJavaDo0aoAvançado;
+package ProjetosIniciaisEmJava;
 
 public class Aula02TiposPrimitivos {
     public static void main(String[] args){
