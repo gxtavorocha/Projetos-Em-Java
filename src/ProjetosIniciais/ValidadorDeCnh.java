@@ -1,4 +1,4 @@
-package ProjetosIniciaisEmJava;
+package ProjetosIniciais;
 
 import java.util.Scanner;
 

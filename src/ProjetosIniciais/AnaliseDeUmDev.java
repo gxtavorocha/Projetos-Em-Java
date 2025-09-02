@@ -1,4 +1,4 @@
-package ProjetosIniciaisEmJava;
+package ProjetosIniciais;
 
 import java.text.NumberFormat;
 import java.util.Locale;
