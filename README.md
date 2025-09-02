@@ -1,12 +1,12 @@
 Gustavo Rocha – Desenvolvedor Backend Java 💻
 
-Bem-vindo ao meu GitHub! Aqui você encontrará meus projetos de Java, focados em backend, APIs REST, Spring Boot, POO, e bancos de dados SQL.
+Bem-vindo aos meu Projetos em Java ! Aqui você encontrará meus projetos de Java do inicio ao avançado , onde irei estar documentando meus proejtos, focados em backend, APIs REST, Spring Boot, POO, e bancos de dados SQL.
 
 🚀 Sobre mim
 
 Nome: Gustavo Rocha
 
-Apaixonado por desenvolvimento backend e automação de processos.
+Apaixonado por desenvolvimento backend.
 
 Atualmente estudando Java, Spring Boot, e SQL.
 
@@ -18,7 +18,7 @@ Linguagens: Java, SQL
 
 Frameworks: Spring Boot, Hibernate
 
-Banco de Dados: MySQL, PostgreSQL
+Banco de Dados: PostgreSQL
 
 Ferramentas: Maven, Git, IntelliJ IDEA
 
