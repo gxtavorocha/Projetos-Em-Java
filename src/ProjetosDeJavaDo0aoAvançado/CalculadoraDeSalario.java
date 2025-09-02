@@ -1,4 +1,4 @@
-package CursosDeJava;
+package ProjetosDeJavaDo0aoAvançado;
 
 import java.text.NumberFormat;
 import java.util.Locale;
